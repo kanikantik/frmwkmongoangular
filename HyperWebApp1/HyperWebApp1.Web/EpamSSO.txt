@@ -1,0 +1,19 @@
+﻿Hi,
+
+You have successfully created a project with Hyper Template !!
+
+Steps to work with EPAM SSO:
+------------------------------------------------------------------------------------------------------------------------------
+Hyper is registered with the following url with epam SSO -  https://localhost:44310
+
+Please go to Web PRoject -> Properties -> Web and change the project url to https://localhost:44310
+
+Run the T4 templates and build the application.
+
+Set Web Project as the start up project and run the applciation.
+
+Once the home page is loaded, Click on the Menu Link EPAM SSO.
+
+It logs in with the current logged in epam user and the user name can be viewed on the page.
+-------------------------------------------------------------------------------------------------------------------------------
+

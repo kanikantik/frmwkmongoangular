@@ -1,0 +1,12 @@
+Hi !! Below are the options you chose
+Database:Mongo
+Dependency Injection: Castle Windsor
+Test Framework: MSTest
+Mock Framework: Moq
+SPA: Yes
+UI: AngularJS 1
+Authentication: EPAM SSO
+Logging: Log4Net
+CDN: No
+Profiling: Glimpse
+Insights: Application Insights
